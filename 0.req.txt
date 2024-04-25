@@ -1,0 +1,25 @@
+Project: Weather Dashboard
+Objective: Create a responsive weather dashboard that displays the current weather and a 5-day forecast for a city entered by the user.
+Use the OpenWeatherMap API to fetch weather data.
+Requirements:
+    HTML Structure:
+        Use semantic HTML5 tags to structure the dashboard.
+        Include an input field for users to type the name of the city.
+        Display areas for current weather and the 5-day forecast.
+    Bootstrap Integration:
+        Utilize Bootstrap for the dashboard layout and components.
+        Use cards to display the weather forecast for each day.
+        Implement a responsive design that looks good on both desktop and mobile devices.
+    JavaScript:
+        Use JavaScript to add interactivity to the dashboard.
+        Fetch weather data from the OpenWeatherMap API based on the city entered by the user.
+        Dynamically update the UI with the fetched data, including temperature, humidity, wind speed, and an icon representing the weather conditions.
+        Save the user's last searched city in local storage and provide an option to view it again when they return to the dashboard.
+Deliverables:
+    Source code including HTML, CSS (if any custom styling is used), and JavaScript files.
+    A README file with instructions on how to set up and use the weather dashboard, including obtaining an API key from OpenWeatherMap.
+Learning Outcomes:
+    Basic understanding of working with APIs to fetch and display data.
+    Enhancing user interface design with Bootstrap for a professional and polished look.
+    Advanced JavaScript techniques for asynchronous data retrieval, local storage handling, and DOM manipulation.
+
